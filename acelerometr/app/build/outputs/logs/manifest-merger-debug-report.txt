@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:2:1-22:12
+	xmlns:android
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:4:5-85
+	android:name
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:4:23-81
+application
+ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\acelerometr\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] D:\acelerometr\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:screenOrientation
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:10:9-45
+	android:label
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:9:9-40
+activity#ua.vorobiov.acelerometr.Main
+ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:12:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\acelerometr\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.1] D:\acelerometr\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] D:\acelerometr\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
+		INJECTED from D:\acelerometr\app\src\main\AndroidManifest.xml
